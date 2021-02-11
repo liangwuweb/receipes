@@ -1,6 +1,6 @@
 # recipe-page
 
-## run the JSON server first to host the data before run this app
+## run the JSON server first to provide data for API before run this app
 
 ## Project setup
 ```
